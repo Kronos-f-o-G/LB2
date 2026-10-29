@@ -1,0 +1,30 @@
+body {
+    background: #1abc9c;
+    font-family: Tahoma, Arial, sans-serif;
+    color: #333;
+}
+table {
+    border-collapse: collapse;
+    width: 100%; /* Задание: ширина таблицы на 100% экрана */
+}
+p, h4 {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+h4 {
+    font-size: 16px; /* Задание: изменен размер шрифта для подзаголовков 4 уровня */
+}
+h1 {
+    font-family: "Times New Roman", Times, serif; /* Задание: шрифт с засечками для заголовка 1 уровня */
+}
+ul, ol {
+    margin: 0;
+}
+table tr td, table tr th {
+    padding: 5px;
+    border: 1px solid #333; /* Делаем границы видимыми */
+}
+img {
+    height: 30px; /* Задание: высота картинки 30px */
+    width: auto;
+}
