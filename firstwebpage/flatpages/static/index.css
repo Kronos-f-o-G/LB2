@@ -25,6 +25,6 @@ table tr td, table tr th {
     border: 1px solid #333; /* Делаем границы видимыми */
 }
 img {
-    height: 30px; /* Задание: высота картинки 30px */
+    height: 300px; /* Задание: высота картинки 30px */
     width: auto;
 }
